@@ -2,7 +2,7 @@
 ![header_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 <h1 align="center">Hola, Soy Edu Jampier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas+e+Informatica+@Edu;Desarrollador+Backend+y+Full+Stack;Diseñando+Sistemas+Escalables+y+Eficientes;Análisis+y+Diseño+Estructurado;Aplicando+Buenas+Practicas;Codigo+Limpio,+Reutilizable+y+Mantenible;Trabajando+bajo+metodologias+agiles;En+Constante+Aprendizaje+Autonomo"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2325D366&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas+e+Informática+@Edu;Desarrollador+Backend+y+Full+Stack;Diseñando+Sistemas+Escalables+y+Eficientes;Análisis+y+Diseño+Estructurado;Aplicando+Buenas+Prácticas;Código+Limpio,+Reutilizable+y+Mantenible;Trabajando+bajo+metodologías+ágiles;En+Constante+Aprendizaje+Autónomo"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
@@ -63,7 +63,7 @@
   </p>
 
   <p>
-    <img src="https://raw.githubusercontent.com/EduJamp/EduJamp/main/metrics-languages.svg" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduJamp&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=en" alt="Most Used Languages" />
   </p>
 </div>
 
