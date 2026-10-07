@@ -18,7 +18,7 @@
 - :dart: Enfocado en la aplicación de **patrones de diseño**, arquitectura limpia, código mantenible y metodologías ágiles (Scrum).
 - :sunglasses: Siempre `aprendiendo nuevas cosas` y explorando buenas prácticas de ingeniería de software.
 - :earth_americas: Residiendo en **Perú**, con fuerte orientación al pensamiento analítico y el aprendizaje autónomo.
-- :eyes: Actualmente estoy abierto a una nueva `oportunidad laboral` como Junior Backend / Full Stack, puedes revisar [mi CV](https://drive.google.com/file/d/1hHu-2r8ZxT4B1dl13IMV8G1ibIljUYK2/view?usp=sharing).
+- :eyes: Actualmente estoy abierto a una nueva `oportunidad laboral` como Junior Backend / Full Stack, puedes revisar [mi CV](https://drive.google.com/file/d/1uqVfMgKyQF6vTnsoCqnqXXvxAweRH8dh/view?usp=sharing).
 - :boom: Puedes visitar [Mi Sitio Web](https://github.com/EduJamp).
 <br>
 
