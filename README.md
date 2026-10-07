@@ -11,10 +11,14 @@
 
 <br><br>
 
-- :school: Soy Estudiante de la [Facultad de Ingeniería de Sistemas e Informática](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-sistemas-e-informatica) de la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/).
+- :school: Soy Estudiante de la [Facultad de Ingeniería de Sistemas e Informática](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-sistemas-e-informatica) de la [Universidad Tecnológica del Perú (UTP)](https://www.utp.edu.pe/).
+- :computer: Apasionado por el desarrollo **Backend & Full Stack**, construyendo soluciones web robustas y eficientes.
+- :gear: Stack principal: **Java, Spring Boot, Angular** y gestión de bases de datos SQL y NoSQL.
 - :technologist: Transformando cada `Desafío` real en una solución de software que trasciende el `código`.
-- :sunglasses: Siempre `aprendiendo nuevas cosas`.
-- :eyes: Actualmente estoy abierto a una nueva `oportunidad laboral`, éste es [mi CV](enproceso).
+- :dart: Enfocado en la aplicación de **patrones de diseño**, arquitectura limpia, código mantenible y metodologías ágiles (Scrum).
+- :sunglasses: Siempre `aprendiendo nuevas cosas` y explorando buenas prácticas de ingeniería de software.
+- :earth_americas: Residiendo en **Perú**, con fuerte orientación al pensamiento analítico y el aprendizaje autónomo.
+- :eyes: Actualmente estoy abierto a una nueva `oportunidad laboral` como Junior Backend / Full Stack, puedes revisar [mi CV](enproceso).
 - :boom: Puedes visitar [Mi Sitio Web](https://github.com/EduJamp).
 <br>
 
@@ -76,6 +80,9 @@
 
 ------
 
+<!--START_SECTION:quote-->
+🚀 **Frase motivadora:** *Cargando frase...*
+<!--END_SECTION:quote-->
 
 <!--START_SECTION:joke-->
 💡 **Chiste del día:** *El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.*
