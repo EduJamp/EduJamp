@@ -52,6 +52,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
+<!--START_SECTION:joke-->
+💡 **Chiste del día:** *Cargando chiste...*
+<!--END_SECTION:joke-->
+
 ----
 
 <div align="center">
