@@ -12,14 +12,13 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Necesario para guardar la imagen generada en el repositorio
+      contents: write # Permiso obligatorio para que la acción pueda guardar el archivo
     steps:
+      - uses: actions/checkout@v3
+
       - uses: lowlighter/metrics@latest
         with:
-      # Token de GitHub integrado
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Configuración para mostrar solo la tarjeta de lenguajes con barras horizontales
           template: classic
           base: ""
           filename: metrics-languages.svg
@@ -27,3 +26,10 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: ""
           plugin_languages_limit: 8
+
+      # Este paso toma el SVG generado y lo guarda automáticamente en tu repositorio
+      - name: Commit and push metrics-languages.svg
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: metrics-languages.svg
+          commit_message: "Actualizar tarjeta de lenguajes de GitHub"
