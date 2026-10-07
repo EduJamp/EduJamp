@@ -22,7 +22,8 @@
 - :boom: Puedes visitar [Mi Sitio Web](https://github.com/EduJamp).
 <br>
 
-## :globe_with_meridians: &nbsp;Tecnologias
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades Tecnológicas</b>
+
 ### 🔤 Lenguajes
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -56,10 +57,30 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
-----
+<div align="center">
+  <h2 align="center">📬 Contacto</h2>
+  <p>¿Tienes alguna propuesta laboral, proyecto o simplemente quieres conectar? ¡Hablemos!</p>
+  
+  <p>
+    <a href="educaceresruiz2005@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a>
+    <a href="https://linkedin.com/in/edujampier" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://instagram.com/edu_jampier" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
+    <a href="https://discord.com/users/educaceresruiz_73275" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+    </a>
+  </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
-  <h2 align="center">🌿 Estadísticas de GitHub 🌿</h2>
+  <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Estadísticas de GitHub </h2>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=EduJamp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=en" alt="GitHub Stats" />
@@ -71,18 +92,22 @@
   </p>
 </div>
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake.svg">
 </picture>
 
-------
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
 🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
 <!--END_SECTION:quote-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
 💡 **Chiste del día:** *El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.*
