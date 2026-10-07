@@ -1,0 +1,10 @@
+La simplicidad es el alma de la eficiencia. — Austin Freeman
+El código es como el humor. Cuando tienes que explicarlo, es malo. — Cory House
+Primero, resuelve el problema. Entonces, escribe el código. — John Johnson
+No te preocupes si no funciona bien. Si todo estuviera bien, serías despedido de tu trabajo. — Mosher's Law of Software Engineering
+El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora. — Proverbio Chino
+Escribe código como si el tipo que va a mantenerlo fuera un psicópata violento que sabe dónde vives. — John F. Woods
+La tecnología es solo una herramienta. En términos de unir a la gente y darles motivación, el profesor es lo más importante. — Bill Gates
+El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito. — Albert Schweitzer
+La verdadera medida de un programador no es cuántas líneas de código escribe, sino cuántos problemas resuelve con elegancia.
+El único lugar donde el éxito viene antes que el trabajo es en el diccionario. — Vidal Sassoon
