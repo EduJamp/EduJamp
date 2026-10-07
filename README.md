@@ -81,7 +81,7 @@
 ------
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *Cargando frase...*
+🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
 <!--END_SECTION:quote-->
 
 <!--START_SECTION:joke-->
