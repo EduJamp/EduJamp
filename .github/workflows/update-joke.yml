@@ -1,0 +1,28 @@
+name: Actualizar Chiste Diario
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta todos los días a la medianoche (UTC)
+  workflow_dispatch:      # Permite probarlo manualmente desde GitHub
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para que el bot edite el README
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Ejecutar script de rotación de chistes
+        run: python .github/scripts/update_joke.py
+
+      - name: Guardar y actualizar el repositorio
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: README.md
+          commit_message: "🤖 Actualización automática del chiste diario"
