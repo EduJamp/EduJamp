@@ -1,19 +1,29 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se actualiza automáticamente una vez al día
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+    - cron: "0 0 * * *" # Se ejecuta una vez al día
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
-    name: generate
+    permissions:
+      contents: write # Necesario para guardar la imagen generada en el repositorio
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: vn7n24zkq43/github-profile-summary-cards@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
+      # Token de GitHub integrado
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Configuración para mostrar solo la tarjeta de lenguajes con barras horizontales
+          template: classic
+          base: ""
+          filename: metrics-languages.svg
+          plugins: languages
+          plugin_languages_details: percentage
+          plugin_languages_ignored: ""
+          plugin_languages_limit: 8
