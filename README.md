@@ -75,3 +75,8 @@
 </picture>
 
 ------
+
+
+<!--START_SECTION:joke-->
+💡 **Chiste del día:** *El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.*
+<!--END_SECTION:joke-->
