@@ -62,7 +62,7 @@
   <p>¿Tienes alguna propuesta laboral, proyecto o simplemente quieres conectar? ¡Hablemos!</p>
   
   <p>
-    <a href="mailito:educaceresruiz2005@gmail.com" target="_blank">
+    <a href="mailto:educaceresruiz2005@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
     </a>
     <a href="https://linkedin.com/in/edujampier" target="_blank">
