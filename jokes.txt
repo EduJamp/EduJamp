@@ -1,0 +1,15 @@
+¿Por qué los programadores prefieren el invierno? Porque odian encontrar bugs en el aire acondicionado.
+Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.
+- Oye, ¿me pasas la contraseña del wifi? - Sí, es "elprogramaquetengo1". Muy segura. - Oye, pero tiene 20 caracteres. - Sí, es que es por seguridad.
+¿Qué hace un mago en la computadora? ¡Hacer magia negra con ensamblador!
+¿Por qué los desarrolladores odian la naturaleza? Porque tiene demasiados bugs y no hay documentación.
+- ¡Mamá, mamá! En el colegio me dicen que soy un procesador multicore. - ¡Hijo, no hables en paralelo!
+¿Cuál es el animal más tonto del mundo? El topo, porque vive bajo tierra y nunca hace un commit.
+Un SQL entra a un bar, se acerca a dos mesas y pregunta: "¿Puedo unirme?".
+¿Por qué el teclado de un programador siempre está limpio? ¡Porque nunca sale al campo exterior!
+Hay dos formas de escribir código sin errores; solo la tercera funciona.
+El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.
+¿Cómo se llama el primo cheto de un hacker? ¡El *cracker* de alta sociedad!
+Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos.
+Hardware es lo que golpeas cuando el software deja de funcionar.
+¿Por qué Dios tardó 6 días en crear el mundo? Porque no tenía que lidiar con sistemas legados.
