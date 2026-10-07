@@ -52,3 +52,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
+----
+
+<div align="center">
+  <h2 align="center">🌿 Estadísticas de GitHub 🌿</h2>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=EduJamp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduJamp&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=c9d1d9&dates=8b949e&sideLabels=8b949e&currStreakLabel=3fb950&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduJamp&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=en" alt="Top Langs" />
+  </p>
+</div>
+
+------
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduJamp/EduJamp/output/github-contribution-grid-snake.svg">
+</picture>
+
+------
