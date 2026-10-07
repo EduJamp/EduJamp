@@ -18,7 +18,7 @@
 - :boom: Puedes visitar [Mi Sitio Web](https://github.com/EduJamp).
 <br>
 
-## 🛠 &nbsp;Tecnologias
+## :globe_with_meridians: &nbsp;Tecnologias
 ### 🔤 Lenguajes
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -63,7 +63,7 @@
   </p>
 
   <p>
-    <img src="metrics-languages.svg" alt="Most Used Languages" />
+    <img src="https://raw.githubusercontent.com/EduJamp/EduJamp/main/metrics-languages.svg" alt="Most Used Languages" />
   </p>
 </div>
 
