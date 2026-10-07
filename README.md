@@ -63,7 +63,7 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduJamp&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=en" alt="Top Langs" />
+    <img src="metrics-languages.svg" alt="Most Used Languages" />
   </p>
 </div>
 
