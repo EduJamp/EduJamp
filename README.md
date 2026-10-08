@@ -19,7 +19,7 @@
 - :sunglasses: Siempre `aprendiendo nuevas cosas` y explorando buenas prácticas de ingeniería de software.
 - :earth_americas: Residiendo en **Perú**, con fuerte orientación al pensamiento analítico y el aprendizaje autónomo.
 - :eyes: Actualmente estoy abierto a una nueva `oportunidad laboral` como Junior Backend / Full Stack, puedes revisar [mi CV](https://drive.google.com/file/d/1uqVfMgKyQF6vTnsoCqnqXXvxAweRH8dh/view?usp=sharing).
-- :boom: Puedes visitar [Mi Sitio Web](https://github.com/EduJamp).
+- :boom: Puedes visitar [Mi Sitio Web](https://edujamp.github.io/).
 <br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades Tecnológicas</b>
