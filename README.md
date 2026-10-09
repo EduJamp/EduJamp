@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *El código es como el humor. Cuando tienes que explicarlo, es malo. — Cory House*
+🚀 **Frase motivadora:** *Primero, resuelve el problema. Entonces, escribe el código. — John Johnson*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Cómo se llama el primo cheto de un hacker? ¡El *cracker* de alta sociedad!*
+💡 **Chiste del día:** *Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos.*
 <!--END_SECTION:joke-->
