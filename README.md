@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *No te preocupes si no funciona bien. Si todo estuviera bien, serías despedido de tu trabajo. — Mosher's Law of Software Engineering*
+🚀 **Frase motivadora:** *El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora. — Proverbio Chino*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *Hardware es lo que golpeas cuando el software deja de funcionar.*
+💡 **Chiste del día:** *¿Por qué Dios tardó 6 días en crear el mundo? Porque no tenía que lidiar con sistemas legados.*
 <!--END_SECTION:joke-->
