@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *La tecnología es solo una herramienta. En términos de unir a la gente y darles motivación, el profesor es lo más importante. — Bill Gates*
+🚀 **Frase motivadora:** *El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito. — Albert Schweitzer*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.*
+💡 **Chiste del día:** *- Oye, ¿me pasas la contraseña del wifi? - Sí, es "elprogramaquetengo1". Muy segura. - Oye, pero tiene 20 caracteres. - Sí, es que es por seguridad.*
 <!--END_SECTION:joke-->
