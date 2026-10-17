@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *El único lugar donde el éxito viene antes que el trabajo es en el diccionario. — Vidal Sassoon*
+🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Por qué los desarrolladores odian la naturaleza? Porque tiene demasiados bugs y no hay documentación.*
+💡 **Chiste del día:** *- ¡Mamá, mamá! En el colegio me dicen que soy un procesador multicore. - ¡Hijo, no hables en paralelo!*
 <!--END_SECTION:joke-->
