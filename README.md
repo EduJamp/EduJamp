@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
+🚀 **Frase motivadora:** *El código es como el humor. Cuando tienes que explicarlo, es malo. — Cory House*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *- ¡Mamá, mamá! En el colegio me dicen que soy un procesador multicore. - ¡Hijo, no hables en paralelo!*
+💡 **Chiste del día:** *¿Cuál es el animal más tonto del mundo? El topo, porque vive bajo tierra y nunca hace un commit.*
 <!--END_SECTION:joke-->
