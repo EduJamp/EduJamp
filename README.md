@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *Escribe código como si el tipo que va a mantenerlo fuera un psicópata violento que sabe dónde vives. — John F. Woods*
+🚀 **Frase motivadora:** *La tecnología es solo una herramienta. En términos de unir a la gente y darles motivación, el profesor es lo más importante. — Bill Gates*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.*
+💡 **Chiste del día:** *¿Cómo se llama el primo cheto de un hacker? ¡El *cracker* de alta sociedad!*
 <!--END_SECTION:joke-->
