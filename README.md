@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *El único lugar donde el éxito viene antes que el trabajo es en el diccionario. — Vidal Sassoon*
+🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Por qué Dios tardó 6 días en crear el mundo? Porque no tenía que lidiar con sistemas legados.*
+💡 **Chiste del día:** *¿Por qué los programadores prefieren el invierno? Porque odian encontrar bugs en el aire acondicionado.*
 <!--END_SECTION:joke-->
