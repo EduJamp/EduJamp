@@ -104,11 +104,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
+🚀 **Frase motivadora:** *El código es como el humor. Cuando tienes que explicarlo, es malo. — Cory House*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Por qué los programadores prefieren el invierno? Porque odian encontrar bugs en el aire acondicionado.*
+💡 **Chiste del día:** *Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.*
 <!--END_SECTION:joke-->
