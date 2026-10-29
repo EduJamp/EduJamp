@@ -83,12 +83,21 @@
   <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Estadísticas de GitHub </h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=EduJamp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduJamp&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=c9d1d9&dates=8b949e&sideLabels=8b949e&currStreakLabel=3fb950&hide_border=true" alt="GitHub Streak" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=EduJamp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&locale=es"
+      alt="GitHub Stats"
+    />
+    <img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=EduJamp&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=c9d1d9&dates=8b949e&sideLabels=8b949e&currStreakLabel=3fb950&hide_border=true"
+  alt="GitHub Streak"
+/>
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduJamp&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=en" alt="Most Used Languages" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduJamp&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=es"
+      alt="Most Used Languages"
+    />
   </p>
 </div>
 
