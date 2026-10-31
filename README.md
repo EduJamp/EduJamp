@@ -113,11 +113,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *No te preocupes si no funciona bien. Si todo estuviera bien, serías despedido de tu trabajo. — Mosher's Law of Software Engineering*
+🚀 **Frase motivadora:** *El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora. — Proverbio Chino*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Qué hace un mago en la computadora? ¡Hacer magia negra con ensamblador!*
+💡 **Chiste del día:** *¿Por qué los desarrolladores odian la naturaleza? Porque tiene demasiados bugs y no hay documentación.*
 <!--END_SECTION:joke-->
