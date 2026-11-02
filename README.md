@@ -113,11 +113,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *Escribe código como si el tipo que va a mantenerlo fuera un psicópata violento que sabe dónde vives. — John F. Woods*
+🚀 **Frase motivadora:** *La tecnología es solo una herramienta. En términos de unir a la gente y darles motivación, el profesor es lo más importante. — Bill Gates*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *- ¡Mamá, mamá! En el colegio me dicen que soy un procesador multicore. - ¡Hijo, no hables en paralelo!*
+💡 **Chiste del día:** *¿Cuál es el animal más tonto del mundo? El topo, porque vive bajo tierra y nunca hace un commit.*
 <!--END_SECTION:joke-->
