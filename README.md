@@ -113,11 +113,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito. — Albert Schweitzer*
+🚀 **Frase motivadora:** *La verdadera medida de un programador no es cuántas líneas de código escribe, sino cuántos problemas resuelve con elegancia.*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *Un SQL entra a un bar, se acerca a dos mesas y pregunta: "¿Puedo unirme?".*
+💡 **Chiste del día:** *¿Por qué el teclado de un programador siempre está limpio? ¡Porque nunca sale al campo exterior!*
 <!--END_SECTION:joke-->
