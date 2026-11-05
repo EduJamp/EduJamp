@@ -113,11 +113,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *La verdadera medida de un programador no es cuántas líneas de código escribe, sino cuántos problemas resuelve con elegancia.*
+🚀 **Frase motivadora:** *El único lugar donde el éxito viene antes que el trabajo es en el diccionario. — Vidal Sassoon*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *¿Por qué el teclado de un programador siempre está limpio? ¡Porque nunca sale al campo exterior!*
+💡 **Chiste del día:** *Hay dos formas de escribir código sin errores; solo la tercera funciona.*
 <!--END_SECTION:joke-->
