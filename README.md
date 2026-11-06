@@ -113,11 +113,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:quote-->
-🚀 **Frase motivadora:** *El único lugar donde el éxito viene antes que el trabajo es en el diccionario. — Vidal Sassoon*
+🚀 **Frase motivadora:** *La simplicidad es el alma de la eficiencia. — Austin Freeman*
 <!--END_SECTION:quote-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--START_SECTION:joke-->
-💡 **Chiste del día:** *Hay dos formas de escribir código sin errores; solo la tercera funciona.*
+💡 **Chiste del día:** *El software y las catedrales son muy parecidos: primero se construyen, luego se rezan.*
 <!--END_SECTION:joke-->
