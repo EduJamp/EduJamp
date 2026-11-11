@@ -25,16 +25,18 @@
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades Tecnológicas</b>
 
 ### 🔤 Lenguajes
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![JSP](https://img.shields.io/badge/-JSP-05122A?style=flat&logo=java&logoColor=ED8B00)&nbsp;
+![JSF](https://img.shields.io/badge/-JSF-05122A?style=flat&logo=java&logoColor=ED8B00)&nbsp;
 ![Servlets](https://img.shields.io/badge/-Servlets-05122A?style=flat&logo=java&logoColor=ED8B00)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E)
 
@@ -49,6 +51,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
+### ⚡Microcontrolador
+[![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#)
+
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=181717)&nbsp;
@@ -56,6 +61,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apachenetbeans&logoColor=1B6AC6)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-05122A?style=flat&logo=mongodb&logoColor=47A248)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
 <div align="center">
   <h2 align="center">📬 Contacto</h2>
